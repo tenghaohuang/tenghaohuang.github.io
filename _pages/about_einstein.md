@@ -1,5 +1,3 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome to my personal webpage! My name is Tenghao Huang, a second-year PhD student at USC Viterbi School of Engineering. I am co-adviced by Prof. <a href="https://muhaochen.github.io/">Muhao Chen</a> and Prof. <a href="https://xuezhemax.github.io/">Xuezhe Ma</a>. My research interests are natural language processing and machine learning.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Before I join USC, I did my bachelor at UNC-CH. I was fortunate to be supervised by Prof. <a href="https://sites.google.com/site/snigdhac/">Snigdha Chaturvedi</a> and Prof. <a href="https://colinraffel.com/">Colin Raffel</a>.
