@@ -22,3 +22,5 @@ Welcome to my personal webpage! My name is Tenghao Huang, a <s>second-year PhD s
 Before I join USC, I did my bachelor at UNC-CH. I was fortunate to be supervised by Prof. <a href="https://sites.google.com/site/snigdhac/">Snigdha Chaturvedi</a> and Prof. <a href="https://colinraffel.com/">Colin Raffel</a>.
 
 I am genuinely interested in how LLM agents can human solve real-world problems. Key areas of this research could include the ethical implications of AI assistance, the accuracy and reliability of the information provided by LLMs, and the development of more sophisticated models that can understand context and nuance better.
+
+I am also interested in studying AI creativity, especially how AI can assist human in composing longer and more interesting narratives. 
