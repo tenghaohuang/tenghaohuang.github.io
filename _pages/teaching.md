@@ -2,11 +2,11 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Here are the courses that I work as a Teaching Assistant.
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+[CSCI 567, Fall 2023](https://usc-tamagotchi.github.io/csci-567/23f/)
 
-Organize your courses by years, topics, or universities, however you like!
+[CSCI 544, Spring 2024](https://xuezhemax.github.io/index.html#teaching)
