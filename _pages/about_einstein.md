@@ -1,3 +1,0 @@
-Welcome to my personal webpage! My name is Tenghao Huang, a second-year PhD student at USC Viterbi School of Engineering. I am co-adviced by Prof. <a href="https://muhaochen.github.io/">Muhao Chen</a> and Prof. <a href="https://xuezhemax.github.io/">Xuezhe Ma</a>. My research interests are natural language processing and machine learning.
-
-Before I join USC, I did my bachelor at UNC-CH. I was fortunate to be supervised by Prof. <a href="https://sites.google.com/site/snigdhac/">Snigdha Chaturvedi</a> and Prof. <a href="https://colinraffel.com/">Colin Raffel</a>.
