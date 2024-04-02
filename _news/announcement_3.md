@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper "Planning and Editing What You Retrieve for Enhanced Tool Learning" has been accepted to NAACL-Findings 2024. 
+Our paper ["Planning and Editing What You Retrieve for Enhanced Tool Learning"](http://arxiv.org/abs/2404.00450) has been accepted to NAACL-Findings 2024. 
