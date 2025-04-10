@@ -20,6 +20,6 @@ Welcome to my personal webpage! My name is Tenghao Huang, a third-year PhD candi
 
 Before I join USC, I did my bachelor at UNC-CH. I was fortunate to be supervised by Prof. <a href="https://sites.google.com/site/snigdhac/">Snigdha Chaturvedi</a> and Prof. <a href="https://colinraffel.com/">Colin Raffel</a>.
 
-I am genuinely interested in how LLM agents can human solve real-world problems. Specifically, I am curious about how LLM agents can enhance human productivity in task-oriented scenarios, such as writing, coding, and planning. 
+I am genuinely interested in how LLM agents can help human solve real-world problems. Specifically, I am curious about how LLM agents can enhance human productivity in task-oriented scenarios, such as writing, coding, and planning. 
 
 I am also interested in studying AI creativity, especially how AI can assist human in composing longer and more interesting narratives. Our paper **Are Large Language Models Capable of Generating Human-Level Narratives?** received the **<span style="color:red;">Outstanding Paper Award 🏆</span>** at EMNLP 2024!
