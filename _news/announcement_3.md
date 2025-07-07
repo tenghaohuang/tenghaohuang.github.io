@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our tutorial on Creative Planning in Large Language Models got accepted at NAACL 2025!  
+Our tutorial on Creative Planning in Large Language Models got accepted at NAACL 2025!

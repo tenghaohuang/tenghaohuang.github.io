@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am excited to start as a part-time research intern at Microsoft in Spring 2025:) 
+I am excited to start as a part-time research intern at Microsoft in Spring 2025:)
