@@ -17,7 +17,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 
-Welcome to my personal webpage! My name is Tenghao Huang, a fourth-year PhD candidate at USC Viterbi School of Engineering. I am adviced by Prof. [Jonathan May](https://jonmay.github.io/webpage/) and Prof. <a href="https://muhaochen.github.io/">Muhao Chen</a>. I have interned at Amazon Alexa AI, IBM Research, Microsoft's Office of Applied Research and Salesforce AI Research.
+Welcome to my personal webpage! My name is Tenghao Huang, a fourth-year PhD candidate at USC Viterbi School of Engineering. I am adviced by Prof. <a href="https://muhaochen.github.io/">Muhao Chen</a> and Prof. [Jonathan May](https://jonmay.github.io/webpage/). I have interned at Amazon Alexa AI, IBM Research, Microsoft's Office of Applied Research and Salesforce AI Research.
 
 Before I join USC, I did my bachelor at UNC-CH. I was fortunate to be supervised by Prof. <a href="https://sites.google.com/site/snigdhac/">Snigdha Chaturvedi</a> and Prof. <a href="https://colinraffel.com/">Colin Raffel</a>.
 
