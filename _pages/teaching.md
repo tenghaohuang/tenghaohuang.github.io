@@ -1,3 +1,12 @@
+---
+layout: page
+permalink: /teaching/
+title: Teaching
+description: Teaching activities including tutorials, guest lectures, and TA experiences.
+nav: true
+nav_order: 6
+---
+
 ## Teaching & tutorials
 
 - Creative Planning with LLM — Albuquerque, New Mexico. Tutorial at NAACL-HLT, May 2025. (<a href="https://drive.google.com/file/d/12prcJAoIbH7K86wZIW-mBARFEHdYH9-C/view?usp=sharing">slides</a>, <a href="https://www.youtube.com/watch?v=hsVXoo34XEk">recording</a>)
