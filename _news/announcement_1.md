@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-5-19
+date: 2026-2-20
 inline: true
 related_posts: false
 ---
 
-Excited to start my summer internship at Salesforce!
+Invited talk at Microsoft on Generative Learning via Adversarial Reward Estimation.
