@@ -26,5 +26,5 @@ I am genuinely interested in how LLM agents can help human solve real-world prob
 I am also interested in studying AI creativity, especially how AI can assist human in composing longer and more interesting narratives. Our paper **Are Large Language Models Capable of Generating Human-Level Narratives?** received the **<span style="color:red;">Outstanding Paper Award 🏆</span>** at EMNLP 2024!
 
 <span style="color:blue;">
-I am currently on the faculty job market this year and actively seeking academic positions.
+I am currently on the job market this year and actively seeking research positions.
 </span>
