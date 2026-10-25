@@ -28,9 +28,7 @@ I build language-model agents that learn from experience, use tools effectively,
 
 ## Background
 
-At USC Viterbi, I worked with [Muhao Chen](https://muhaochen.github.io/) and [Jonathan May](https://jonmay.github.io/webpage/). I earned my bachelor's degree at UNC-Chapel Hill, where I worked with [Snigdha Chaturvedi](https://sites.google.com/site/snigdhac/) and [Colin Raffel](https://colinraffel.com/). I have also interned at Amazon Alexa AI, IBM Research, and Salesforce AI Research.
-
-My paper [**Are Large Language Models Capable of Generating Human-Level Narratives?**](https://aclanthology.org/2024.emnlp-main.978/) received the **<span style="color:red;">EMNLP 2024 Outstanding Paper Award</span>**.
+At USC Viterbi, I worked with [Muhao Chen](https://muhaochen.github.io/) and [Jonathan May](https://jonmay.github.io/webpage/). I earned my bachelor's degree at UNC-Chapel Hill, where I worked with [Snigdha Chaturvedi](https://sites.google.com/site/snigdhac/) and [Colin Raffel](https://colinraffel.com/). I have also interned at Amazon Alexa AI, IBM Research, and Salesforce AI Research. My research has been reported by MIT Technology Review, and I received the **<span style="color:red;">EMNLP 2024 Outstanding Paper Award</span>**.
 
 ## Hiring
 
