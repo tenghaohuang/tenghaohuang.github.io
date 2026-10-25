@@ -16,7 +16,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-
 I am Tenghao Huang, a Senior Applied Scientist at Microsoft's [Office of Applied Research](https://www.microsoft.com/en-us/research/group/office-of-applied-research/). My research focuses on **post-training large language models, LLM agents, and human-centered AI**. I work toward agents that can learn from experience, reason about people and their goals, and help solve real-world problems.
 
 **I will join the [University of Utah](https://www.utah.edu/) as an Assistant Professor in Fall 2027!** I am recruiting Ph.D. students to join my lab. Please see the [Hiring](#hiring) section below for details.
