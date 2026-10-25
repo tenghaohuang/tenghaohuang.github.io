@@ -33,5 +33,4 @@ Our paper [**Are Large Language Models Capable of Generating Human-Level Narrati
 I am looking for motivated Ph.D. students to join my lab at the University of Utah starting in **Fall 2027**. If you are interested in LLM post-training, agents, human-centered AI, or creativity, I would love to hear from you.
 
 **Prospective Ph.D. students:** Please apply through the [Ph.D. application process](https://www.cs.utah.edu/graduate/prospective-students/admissions/graduate-application/) at the University of Utah's Kahlert School of Computing and **list me as a potential advisor** in your application so I can review your materials.
-
 To reach out, email [ohara.lab.recruiting@gmail.com](mailto:ohara.lab.recruiting@gmail.com) with the subject **[PRSP PhD] + your current position and institution/organization**. A short email explaining your research interests and a concrete motivation for joining the lab is a great way to start a conversation. I will try to read all messages, but I may not be able to reply to every email.
